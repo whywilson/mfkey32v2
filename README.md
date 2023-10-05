@@ -1,4 +1,5 @@
-
+# Mfkey32 for MTools Lite
+Mfkey32 function are imported to MTools Lite App to support detect Mifare Keys for the ChameleonUltra and the ChameleonLite devices. MTools Lite App is based on Flutter and using Bluetooth to connect the Chameleon Device. The related code to implement mfkey32 are under folder `dart`.
 
 # Mfkey32 Version 2
 Mfkey32v2 is a tool used to calculate Mifare Classic Keys from encrypted nonces obtained from the reader. 
